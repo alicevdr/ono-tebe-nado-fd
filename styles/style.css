@@ -58,6 +58,7 @@ a {
 }
 
 .header__address {
+  font-style: normal;
   max-width: 240px;
   text-decoration: none;
   justify-self: end;
