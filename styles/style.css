@@ -37,8 +37,8 @@ footer {
 }
 
 .header__menu {
-  padding-top: 132px;
-  padding-bottom: 132px;
+  padding-top: 134.23px;
+  padding-bottom: 138px;
 }
 
 .header {
@@ -82,7 +82,7 @@ footer {
   display: flex;
   width: 148px;
   height: 105px;
-  margin: 94px 22px 92px 24px;
+  margin: 90px 22px 92px 24px;
   box-sizing: border-box;
 }
 
@@ -322,7 +322,7 @@ footer {
 }
 
 .address {
-  padding-top: 102px;
+  padding-top: 95px;
   padding-bottom: 100px;
   line-height: 24px;
   text-decoration-thickness: 2px;
@@ -364,6 +364,7 @@ footer {
   padding-top: 3px;
   line-height: 24px;
   text-decoration-thickness: 2px;
+  padding-bottom: 82px;
 }
 
 
