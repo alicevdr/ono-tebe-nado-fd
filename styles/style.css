@@ -19,7 +19,6 @@ ol {
 
 a {
   color: black;
-  text-decoration-thickness: 1px;
 }
 
 .header,
@@ -39,6 +38,7 @@ footer {
 .header__menu {
   padding-top: 134.23px;
   padding-bottom: 138px;
+  text-decoration: none;
 }
 
 .header {
@@ -64,7 +64,6 @@ footer {
 }
 
 .header__links-list-item {
-  text-decoration: underline;
   text-decoration-thickness: 1px;
   padding-left: 7px;
   list-style: circle;
@@ -76,6 +75,10 @@ footer {
 
 .header__links-list-item:last-child {
   padding-right: 13px;
+}
+
+.header__link_active {
+  text-decoration: none;
 }
 
 .header__logo-image {
